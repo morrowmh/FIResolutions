@@ -1,4 +1,7 @@
-# Macaulay2-Package-Template
-This repository is a template for writing and organizing Macaulay2 packages. The Python script `compile.py` iterates through `pkg_src/M2Template.m2` and replaces every instance of `load "file.m2"` with the contents of `file.m2`. The final product is then generated as `M2Template.m2` in the top directory. This allows you to move large portions of code into separate files to improve readability while developing.
+# FIResolutions - A Macaulay2 Package (work in progress)
+## Overview
+This [Macaulay2](https://www.macaulay2.com/) package allows one to compute free FI-resolutions of submodules of free FI-modules over Noetherian polynomial FI-algebras. For an introduction to FI-resolutions, see [this paper](https://arxiv.org/pdf/2303.06725).
 
-This repository was inspired by Jay White's [MaxBettiNumbers](https://github.com/JayWhite2357/MaxBettiNumbers) repository.
+See also the related package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases).
+
+This repository was created using [Macaulay2-Package-Template](https://github.com/morrowmh/Macaulay2-Package-Template).
