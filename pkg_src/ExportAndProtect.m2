@@ -1,6 +1,5 @@
 export {
-    -- Methods
-    "exampleFunction1", "exampleFunction2"
+    -- List symbols to be exported here
 }
 
 scan({

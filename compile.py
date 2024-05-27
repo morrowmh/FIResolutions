@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-pkg_name = "M2Template" # Change this to the name of your package
+pkg_name = "FIResolutions"
 
 with open("pkg_src/" + pkg_name + ".m2", "r") as file:
     lines = file.readlines()
