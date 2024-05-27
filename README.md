@@ -1,4 +1,5 @@
-# FIResolutions - A Macaulay2 Package (work in progress)
+# FIResolutions - A Macaulay2 Package
+Work in progress.
 ## Overview
 This [Macaulay2](https://www.macaulay2.com/) package allows one to compute free FI-resolutions of submodules of free FI-modules over Noetherian polynomial FI-algebras. For an introduction to FI-resolutions, see [this paper](https://arxiv.org/pdf/2303.06725).
 
